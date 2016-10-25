@@ -2,6 +2,8 @@
                   |       hog_detec      |
                   +----------------------+
 
+[![Build Status](https://travis-ci.org/arnaud-ramey/hog_detec.svg)](https://travis-ci.org/arnaud-ramey/hog_detec)
+
 A simple OpenCV sample for detecting people in a camera stream
 thanks to a HOG detector.
 
